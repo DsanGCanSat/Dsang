@@ -9,7 +9,7 @@ void readGPS()
 void getGPS()
 {
 
-    if (c) Serial.print(c);
+    if (c) saveData((String)c);
 
 }
 

@@ -55,7 +55,7 @@ void loop()
   
   getGPS();
 
-  Send("Hello");
+  saveData("Hello");
   
   delay(10);
 

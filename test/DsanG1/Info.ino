@@ -53,3 +53,77 @@
     f) MPX
       MPX: MPX_Haut-MPX_Bas
  */
+
+
+
+
+
+
+
+
+
+
+
+
+ /*
+  * Nano2 - Nano1
+  * A5 - A5
+  * A4 - A4
+  * GND - GND
+  * VIN - 5V
+  * 
+  * BMP - Nano1
+  * Vin - 5V
+  * GND - GND
+  * SCK - A5
+  * SDI - A4
+  * 
+  * BNO - Nano1
+  * Vin - 5V
+  * GND - GND
+  * SDA - A4
+  * SCL - A5
+  * 
+  * SD - Nano1
+  * 5V - 5V
+  * GND - GND
+  * CLK - D13
+  * DO - D12
+  * DI - D11
+  * CS - D10
+  * 
+  * XBEE - Nano1
+  * 5V - 5v
+  * GND - GND
+  * RX - D3
+  * TX - D4
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+  * */
+  */

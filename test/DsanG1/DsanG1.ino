@@ -80,17 +80,16 @@ void loop()
 
   timer = millis();
 
-  Serial.println((String)"x:"+dat);
-
   String dat = "";
   while( Wire.available() ) 
   {
     dat += Wire.read();
     dat += " ";
   }
-  Serial.println(dat);
 
-  saveData((String)"Millis: " + millis() + "PRIME");
+  saveData((String)"Nano2: "+dat);
+
+  saveData((String)"Millis: " + millis());
  
   //readGPS();
   

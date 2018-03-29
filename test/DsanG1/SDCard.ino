@@ -15,7 +15,7 @@ void saveData(String dump) {
 void Send(String data)
 {
 
-  //Serial.println(data);
+  Serial.println(data);
   xbee.println(data);
   
 }
